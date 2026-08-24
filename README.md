@@ -39,5 +39,5 @@ Para que uma estrutura de VPN funcione, existem elementos fundamentais:
 ## 👨‍💻 Sobre o Autor
 Documentação criada por **[Matheus Lucena]** — Estudante de Análise e Desenvolvimento de Sistemas (ADS) e entusiasta de Infraestrutura de TI e Redes. 
 
-* 🔗 [Conecte-se comigo no LinkedIn]([https://www.linkedin.com/in/matheus-lucena-/])
-* 🌐 [Meu Portfólio / Linktree]([https://linktr.ee/MatheusLucena])
+* 🔗 [Conecte-se comigo no LinkedIn] ([https://www.linkedin.com/in/matheus-lucena-/])
+* 🌐 [Meu Portfólio / Linktree] ([https://linktr.ee/MatheusLucena])
